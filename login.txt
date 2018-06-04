@@ -1,0 +1,6 @@
+miska.james,whatup
+klem.chan,pass
+rudy.landon,password
+haugstad.travis,pass
+usr1,pass
+usr2,pass
