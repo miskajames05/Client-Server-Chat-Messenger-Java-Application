@@ -10,3 +10,5 @@ This Java application allows a user to do the following:
   - call an online user (request to chat)
   - if user A calls user B, user B can either accept or reject the call
   - either use partipating in a chat session can end the session
+
+The Server is run through the class Server_Main and Client side is run through the class Client.
